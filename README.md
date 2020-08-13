@@ -12,3 +12,6 @@ endpoint方式类似于restController，实现简单，符合开发习惯，定�
 handler intercept方式，可以抽象多个公共ws连接请求，符合aop思想，推荐使用该方式
 
 ```
+
+## test
+http://coolaf.com/tool/chattest
