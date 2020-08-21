@@ -13,6 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyWebsocketApp {
 
     public static void main(String[] args) {
+        //TODO
         SpringApplication application = new SpringApplication(MyWebsocketApp.class);
         application.run();
     }
