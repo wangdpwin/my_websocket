@@ -1,6 +1,6 @@
 # my_websocket
 websocket sever demo, base on springboot & websocket  
-from : https://juejin.im/post/6844903976727494669#heading-13
+consult from : https://juejin.im/post/6844903976727494669#heading-13
 
 ## ws1
 ```aspectj
